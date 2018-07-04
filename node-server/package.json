@@ -1,0 +1,19 @@
+{
+  "name": "param-notifier-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "fcm-node": "^1.2.1",
+    "mongodb": "^3.1.0",
+    "request": "^2.87.0"
+  }
+}
